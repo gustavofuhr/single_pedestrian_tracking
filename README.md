@@ -4,9 +4,9 @@ Overview
 
 The package contains the code for the pedestrian (single) tracker proposed in the paper:
 
-*Fuhr, G. ; Jung, C. R. . Robust Patch-Based Pedestrian Tracking using
-	Monocular Calibrated Cameras. In: SIBGRAPI 2012 - Conference on
-	Graphics, Patterns and Images, p. 166-173, 2012. *
+*Fuhr, G. ; Jung, C. R. . Robust Patch-Based Pedestrian Tracking using*
+Monocular Calibrated Cameras. In: SIBGRAPI 2012 - Conference on
+Graphics, Patterns and Images, p. 166-173, 2012. *
 
 If you use the following code in our experiments, please cite the above publication.
 
