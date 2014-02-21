@@ -2,7 +2,7 @@
 Overview
 =========
 
-The package contains the code for the pedestrian (single) tracker proposed in the paper:
+This project is pedestrian (single) tracker based on patch matching. The method was proposed in the paper:
 
 *Fuhr, G. ; Jung, C. R. . Robust Patch-Based Pedestrian Tracking using*
 *Monocular Calibrated Cameras. In: SIBGRAPI 2012 - Conference on*
@@ -13,7 +13,7 @@ If you use the following code in our experiments, please cite the above publicat
 Information about the project can be found in: http://inf.ufrgs.br/~gfuhr/?file=research
 Soon, there will be extensions of the code and improvements in this webpage.
 
-For question about the code/method please contact Gustavo Fuhr
+For question about the code/method please contact Gustavo Führ
 at gfuhr@inf.ufrgs.br.
 
 Requirements
